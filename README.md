@@ -7,6 +7,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+
+A static blog website built with Next.js (MERN stack study). Pure static data without backend integration yet.
+
 npm run dev
 # or
 yarn dev
